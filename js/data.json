@@ -1,0 +1,99 @@
+{
+  "workCards": [
+    {
+      "modal": "portfolioModal1",
+      "img": "img/portfolio/01-thumbnail.jpg",
+      "h": "Fotografía",
+      "p": "Producto"
+      
+    },
+    
+    {
+      "modal": "portfolioModal2",
+      "img": "img/portfolio/02-thumbnail.jpg",
+      "h": "Contenido",
+      "p": "Redes Sociales"
+      
+    },
+    {
+      "modal": "portfolioModal3",
+      "img": "img/portfolio/03-thumbnail.jpg",
+      "h": "Uso",
+      "p": "Tipográfico"
+    },
+    {
+      "modal": "portfolioModal4",
+      "img": "img/portfolio/04-thumbnail.jpg",
+      "h": "Identidad",
+      "p": "Gráfica"
+    },
+    {
+      "modal": "portfolioModal5",
+      "img": "img/portfolio/05-thumbnail.jpg",
+      "h": "Diseño",
+      "p": "Web"
+    },
+    {
+      "modal": "portfolioModal6",
+      "img": "img/portfolio/06-thumbnail.jpg",
+      "h": "Viajes",
+      "p": "Fotografía"
+    }
+
+    
+  ],
+
+  "modalCards": [
+    {
+      "por": "portfolioModal1",
+      "img": "img/portfolio/01-full.jpg",
+      "name": "Fotografía",
+      "h": "Producto",
+      "p": "En este proyecto se tomaron fotogáfias para una marca de ropa, las cuales se implementaron en un catálogo y en su pagina web."
+      
+    },
+    
+    {
+      "por": "portfolioModal2",
+      "img": "img/portfolio/02-full.jpg",
+      "name": "Contenido",
+      "h": "Redes Sociales",
+      "p": "En este proyecto se realizan las imagenes que se van a publicar a lo largo del mes, haciendo imagenes vistosas que generen empatia con el seguidor."
+    },
+    {
+      "por": "portfolioModal3",
+      "img": "img/portfolio/03-full.jpg",
+      "name": "Uso",
+      "h": "Tipográfico",
+      "p": "En este proyecto se hizo una tipográfia y la implementación para diferentes aplicaciones."
+    },
+    {
+      "por": "portfolioModal4",
+      "img": "img/portfolio/04-full.jpg",
+      "name": "Identidad",
+      "h": "Gráfica",
+      "p": "En este proyecto se busco crear una identidad unica a la marca."
+    },
+    {
+      "por": "portfolioModal5",
+      "img": "img/portfolio/05-full.jpg",
+      "name": "Diseño",
+      "h": "Web",
+      "p": "Lo que busco es crear sitios de facil navegación para que la interacción con el usuario sea la mejor."
+    },
+    {
+      "por": "portfolioModal6",
+      "img": "img/portfolio/06-full.jpg",
+      "name": "Viajes",
+      "h": "Fotografía",
+      "p": "Es uno de mis pasatiempos asi que puedes contar que capturare tus mejores momentos."
+    }
+
+    
+  ]
+  }
+
+
+
+
+  
